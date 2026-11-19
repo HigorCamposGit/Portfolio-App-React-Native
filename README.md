@@ -1,7 +1,14 @@
 # Portfolio App (Desafio React Native - DIO) Formação React Native Developer
 
 Aplicativo mobile de portfólio pessoal desenvolvido em **React Native**, **Expo** e **TypeScript**, com navegação entre telas 
-utilizando **React Navigation (`@react-navigation/native-stack`)**. Para a formação **Formação React Native Developer*
+utilizando **React Navigation (`@react-navigation/native-stack`)**. Para a formação **Formação React Native Developer*.
+
+---
+## 🙏 Agradecimentos
+
+Este projeto foi desenvolvido com base nas aulas e orientações do professor **Felipe Aguiar**. Conheça mais sobre o trabalho dele em seu perfil no GitHub: [@felipeAguiarCode](https://github.com/felipeAguiarCode).
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 
