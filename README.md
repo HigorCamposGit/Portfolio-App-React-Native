@@ -1,6 +1,7 @@
-# Portfolio App (Desafio React Native - DIO)
+# Portfolio App (Desafio React Native - DIO) Formação React Native Developer
 
-Aplicativo mobile de portfólio pessoal desenvolvido em **React Native**, **Expo** e **TypeScript**, com navegação entre telas utilizando **React Navigation (`@react-navigation/native-stack`)**.
+Aplicativo mobile de portfólio pessoal desenvolvido em **React Native**, **Expo** e **TypeScript**, com navegação entre telas 
+utilizando **React Navigation (`@react-navigation/native-stack`)**. Para a formação **Formação React Native Developer*
 
 ## 🚀 Tecnologias Utilizadas
 
