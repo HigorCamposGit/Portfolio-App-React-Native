@@ -34,22 +34,35 @@ Portfolio-App-React-Native/
 │   └── types/
 │       └── navigation.ts
 
+```
+
 ---
 🛠️ Como Executar o Projeto
 Clone este repositório:
 
 Bash
-git clone [https://github.com/HigorCamposGit/Portfolio-App-React-Native.git](https://github.com/HigorCamposGit/Portfolio-App-React-Native.git)
+`git clone [https://github.com/HigorCamposGit/Portfolio-App-React-Native.git](https://github.com/HigorCamposGit/Portfolio-App-React-Native.git)`
 Entre na pasta do projeto:
 
 Bash
-cd Portfolio-App-React-Native
+`cd Portfolio-App-React-Native`
 Instale as dependências:
 
 Bash
-npm install
+`npm install`
 Inicie o servidor do Expo:
 
 Bash
-npx expo start
+`npx expo start`
 Abra no aplicativo Expo Go ou emulador.
+
+---
+
+## 🤝 Conecte-se Comigo
+
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
+
+---
